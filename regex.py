@@ -1,4 +1,10 @@
 import re
+'''
+This topic is very easy but I dont want to waste my time to cover all the things I listed here. Apparantly 
+I'll use AI to get things done regarding this topic. Maybe I'll come later to study more if needs be.
+'''
+
+
 
 # 1. Matching Literal Text
 pattern1 = r'cat'
